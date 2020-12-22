@@ -1,20 +1,4 @@
-# Spring MicroServices
 
-[![Image](https://www.springboottutorial.com/images/Course-Master-Microservices-with-Spring-Boot-and-Spring-Cloud.png "Master Microservices with Spring Boot and Spring Cloud")](https://www.udemy.com/course/microservices-with-spring-boot-and-spring-cloud/)
-
-Learn how to create awesome Microservices and RESTful web services with Spring and Spring Boot.
-
-## Overview
-* [Installing Tools](#installing-tools)
-* [Running Examples](#running-examples)
-* [Course Overview](#course-overview)
-  - [Course Steps](#step-list)
-  - [Expectations](#expectations)
-* [About in28Minutes](#about-in28minutes)
-  - [Our Beliefs](#our-beliefs)
-  - [Our Approach](#our-approach)
-  - [Find Us](#useful-links)
-  - [Other Courses](#other-courses)
 
 ### Introduction
 
